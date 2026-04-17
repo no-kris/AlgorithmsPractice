@@ -24,7 +24,7 @@ Output: 0
 
 **Example 3:**
 ```text
-Input:  ids = [0, 1, 2, 3]
+Input:  ids = [0, 1, 2, 3, 5]
 Output: 4
 ```
 
